@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="rotate_anim" type="XML" />
+      <mapping pattern="scale_anim" type="XML" />
+      <mapping pattern="translate_anim" type="XML" />
+      <mapping pattern="alpha_anim" type="XML" />
+    </extensionMap>
+  </component>
+</application>
