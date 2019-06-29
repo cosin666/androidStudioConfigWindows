@@ -1,15 +1,15 @@
-<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+<scheme name="Darcula copy" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2019-06-20T14:52:13</property>
+    <property name="created">2019-06-30T00:54:11</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.4.1.0</property>
-    <property name="modified">2019-06-30T00:58:00</property>
-    <property name="originalScheme">Darcula</property>
+    <property name="modified">2019-06-30T00:54:18</property>
+    <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <attributes>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ace02" />
+        <option name="FOREGROUND" value="cec801" />
         <option name="BACKGROUND" value="344134" />
         <option name="FONT_TYPE" value="1" />
         <option name="ERROR_STRIPE_COLOR" value="36b13" />
@@ -25,9 +25,8 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ace02" />
+        <option name="FOREGROUND" value="cec801" />
         <option name="BACKGROUND" value="40332b" />
-        <option name="FONT_TYPE" value="1" />
         <option name="ERROR_STRIPE_COLOR" value="b56277" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
