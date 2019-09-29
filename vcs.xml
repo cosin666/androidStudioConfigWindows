@@ -6,6 +6,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="cosin666" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.70.8" />
+          <option name="userName" value="xuqun" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
