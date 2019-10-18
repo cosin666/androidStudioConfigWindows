@@ -1,0 +1,3 @@
+<keymap version="1" name="Default Proper Redo" parent="$default">
+  <action id="EditorDeleteLine" />
+</keymap>
