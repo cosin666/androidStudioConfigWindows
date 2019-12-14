@@ -7,7 +7,6 @@
     <option name="STATIC_FIELD_NAME_PREFIX" value="s" />
   </JavaCodeStyleSettings>
   <codeStyleSettings language="Dart">
-    <option name="RIGHT_MARGIN" value="100" />
     <option name="WRAP_ON_TYPING" value="0" />
   </codeStyleSettings>
   <codeStyleSettings language="JAVA">
