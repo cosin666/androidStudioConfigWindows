@@ -1,4 +1,8 @@
 <code_scheme name="Default" version="173">
+  <JavaCodeStyleSettings>
+    <option name="FIELD_NAME_PREFIX" value="m" />
+    <option name="STATIC_FIELD_NAME_PREFIX" value="s" />
+  </JavaCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="KEEP_SIMPLE_CLASSES_IN_ONE_LINE" value="true" />
     <option name="WRAP_LONG_LINES" value="true" />
