@@ -1,8 +1,10 @@
 <application>
+  <component name="CodeInsightSettings">
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+  </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="18" />
-    <option name="FONT_FAMILY" value="Menlo" />
-    <option name="SECONDARY_FONT_FAMILY" value="Consolas" />
+    <option name="FONT_SIZE" value="17" />
+    <option name="FONT_FAMILY" value="JetBrains Mono Medium" />
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
@@ -12,9 +14,5 @@
     </option>
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
-  </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
   </component>
 </application>
